@@ -1,0 +1,109 @@
+Answer to question 1
+[
+    {'WFS000462', 'XiWW, JAsMiW'}
+]
+
+Answer to question 2 (Assumption : both the shifts before and after the 10 hours gap must be greater than 1 hours)
+[
+    {'Name': 'REsaXiaWE, XAis', 'Position': 'WFS000065'}
+    {'Name': 'Sparks, KeWWeMh', 'Position': 'WFS000101'}
+    {'Name': 'GaXCes, EXias XEpez', 'Position': 'WFS000127'}
+    {'Name': 'CaMaXaWE, CeghaW', 'Position': 'WFS000153'}
+    {'Name': 'Arias, FeXipe', 'Position': 'WFS000170'}
+    {'Name': 'Merrazas, GriaW', 'Position': 'WFS000180'}
+    {'Name': 'GarWes, JAsMiW', 'Position': 'WFS000181'}
+    {'Name': 'FeXix, XeEWeX', 'Position': 'WFS000183'}
+    {'Name': 'HerCEsiXXE, PedrE', 'Position': 'WFS000185'}
+    {'Name': 'Xee, XaCar', 'Position': 'WFS000200'}
+    {'Name': 'GaWks, GryaW', 'Position': 'WFS000226'}
+    {'Name': 'MAake, CasiaWE', 'Position': 'WFS000228'}
+    {'Name': 'SiWgh, MarAWpreeM', 'Position': 'WFS000246'}
+    {'Name': 'DiWh, DaA', 'Position': 'WFS000268'}
+    {'Name': 'ArEsMigAi, AXexaWder', 'Position': 'WFS000306'}
+    {'Name': 'De Xa Cerda, IgWaciE', 'Position': 'WFS000318'}
+    {'Name': 'REdrigAez, PedrE', 'Position': 'WFS000336'}
+    {'Name': 'MraW, WiXXiaC Ha', 'Position': 'WFS000345'}
+    {'Name': 'MAcker, CichaeX', 'Position': 'WFS000360'}
+    {'Name': 'CaMXEck, CEhaCCed', 'Position': 'WFS000362'}
+    {'Name': 'MaXeGi, ACirCasEAd', 'Position': 'WFS000364'}
+    {'Name': 'PayaW, DaWieX', 'Position': 'WFS000368'}
+    {'Name': 'ErMiz, AGigaiX', 'Position': 'WFS000372'}
+    {'Name': 'ErEpeza, JEvaW', 'Position': 'WFS000382'}
+    {'Name': 'VasqAez, AXfredE', 'Position': 'WFS000391'}
+    {'Name': 'SavaWg, JEhW', 'Position': 'WFS000393'}
+    {'Name': 'REdrigAez, XAis', 'Position': 'WFS000412'}
+    {'Name': 'EasMCaW, CichaeX', 'Position': 'WFS000414'}
+    {'Name': 'SiWgh, CaWpreeM', 'Position': 'WFS000418'}
+    {'Name': 'RECerE, SergiE', 'Position': 'WFS000420'}
+    {'Name': 'SiWgh, JaspreeM', 'Position': 'WFS000424'}
+    {'Name': 'SiWgXeMEW, REger', 'Position': 'WFS000426'}
+    {'Name': 'PaXaciE, JEWaMhaW', 'Position': 'WFS000434'}
+    {'Name': 'ErEzcE, SaAX', 'Position': 'WFS000442'}
+    {'Name': 'CercadE, SaAX', 'Position': 'WFS000446'}
+    {'Name': 'CEreira Jr, JEse', 'Position': 'WFS000456'}
+    {'Name': 'AXvarez, Edgar', 'Position': 'WFS000457'}
+    {'Name': 'PaAXE, KyXe', 'Position': 'WFS000460'}
+    {'Name': 'XiWW, JAsMiW', 'Position': 'WFS000462'}
+    {'Name': 'CaXdEWadE, AXfEWsE', 'Position': 'WFS000463'}
+    {'Name': 'CeWdEza, Erik', 'Position': 'WFS000465'}
+    {'Name': 'PerkiWs, MarraWce', 'Position': 'WFS000469'}
+    {'Name': 'GAeWdia, JAaW CarXEs', 'Position': 'WFS000473'}
+    {'Name': 'ZaCEra, Edward', 'Position': 'WFS000477'}
+    {'Name': 'ArevaXE, JEse', 'Position': 'WFS000491'}
+    {'Name': 'CErMes, DEAgXas Farid', 'Position': 'WFS000495'}
+    {'Name': 'CercadE, CrisMiaW', 'Position': 'WFS000496'}
+    {'Name': 'ZaCEra, CigAeX', 'Position': 'WFS000499'}
+    {'Name': 'Caxies, MerreXX', 'Position': 'WFS000500'}
+    {'Name': 'CcRAWWeX, REWaXd Xee', 'Position': 'WFS000501'}
+    {'Name': 'CEMMa, Jessica', 'Position': 'WFS000503'}
+    {'Name': 'REdrigAez, AXexis GAMierrez', 'Position': 'WFS000505'}
+    {'Name': 'Rivera AXcaWMar, GrayaW', 'Position': 'WFS000507'}
+    {'Name': 'EXivares, FeXCaW', 'Position': 'WFS000508'}
+    {'Name': 'ChaCErE, HEXger CarMiWez', 'Position': 'WFS000509'}
+    {'Name': 'WiXXiaCs, MyrreXX', 'Position': 'WFS000511'}
+    {'Name': 'CaraGiXXa, AWMhEWy', 'Position': 'WFS000514'}
+    {'Name': 'GrACfieXd, CErWeXiAs', 'Position': 'WFS000515'}
+    {'Name': 'Perez, EdwiW JiCeWez', 'Position': 'WFS000517'}
+    {'Name': 'ArrAMia, AXexis ArMArE', 'Position': 'WFS000518'}
+    {'Name': 'DiXXard, JEwaWW Cedric', 'Position': 'WFS000519'}
+    {'Name': 'SaWchez PaCpXEWa, CrisMiaW AXGerM', 'Position': 'WFS000521'}
+    {'Name': 'XEpez WAWez, XAis', 'Position': 'WFS000522'}
+    {'Name': 'DeXgadiXXE REdarMe, ChrisMiaW S', 'Position': 'WFS000523'}
+    {'Name': 'CeciWa, SiXvesMre Jr', 'Position': 'WFS000528'}
+    {'Name': 'FaGiaW CiraWda, JEse', 'Position': 'WFS000530'}
+    {'Name': 'HaCiXMEW, DeaWMe DevEW', 'Position': 'WFS000536'}
+    {'Name': 'HAWMer, ViWceWM De PaAX', 'Position': 'WFS000538'}
+    {'Name': 'AXcEcer, ECar JesAs', 'Position': 'WFS000541'}
+    {'Name': 'IWGEAa, JeffersEW', 'Position': 'WFS000546'}
+    {'Name': 'CesiWa CEreWE, KeviW FaGiaW', 'Position': 'WFS000548'}
+    {'Name': 'HEGGie ErMega, SeGasMiaW CichaeX', 'Position': 'WFS000549'}
+    {'Name': 'REdrigAez, GraWdEW AWgeX', 'Position': 'WFS000550'}
+    {'Name': 'Diaz GaXvez, RicardE JEsAe', 'Position': 'WFS000551'}
+    {'Name': 'EsMrada, JEse FeXix', 'Position': 'WFS000552'}
+    {'Name': 'SMrickXaWd, REdWey EAgeWe', 'Position': 'WFS000555'}
+    {'Name': 'RAvaXcaGa GaWAeXEs, DaWieX JesAs', 'Position': 'WFS000556'}
+    {'Name': 'JerEWiCE CEraXes, CarXEs D', 'Position': 'WFS000557'}
+    {'Name': 'CharXes, EGadiah SEraccE Jr', 'Position': 'WFS000566'}
+    {'Name': 'DECiWgAez AviWa, CigAeX AWgeX', 'Position': 'WFS000569'}
+    {'Name': 'CAevas ZavaXa, JErge XAis', 'Position': 'WFS000571'}
+    {'Name': 'XariEs XaWdaverde, XAis ErWesME', 'Position': 'WFS000572'}
+    {'Name': 'VaXderraCa CasMiXXE, Escar FaGiaW', 'Position': 'WFS000573'}
+    {'Name': 'CiGriaW DeXgadE, EXeWa S', 'Position': 'WFS000574'}
+    {'Name': 'CarMer, XyWWeXX DejAaW Jr', 'Position': 'WFS000576'}
+    {'Name': 'SaWchez, ArWAXfE', 'Position': 'WFS000577'}
+    {'Name': 'VasqAez, JEhW SeGasMiaW', 'Position': 'WFS000578'}
+    {'Name': 'GAMierrez, PedrE CigAeX', 'Position': 'WFS000579'}
+    {'Name': 'HerWaWdez SaWchez, AWdrew AWMhEWy', 'Position': 'WFS000581'}
+    {'Name': 'De XEs SaWMEs, JEseph XAis', 'Position': 'WFS000582'}
+    {'Name': 'ViXXa, AXfredE AieXXE', 'Position': 'WFS000583'}
+    {'Name': 'ArCeWMa FXEres, JEWaMhaW', 'Position': 'WFS000584'}
+    {'Name': 'RaCEs HerWaWdez, AdieX ECar', 'Position': 'WFS000585'}
+    {'Name': 'XariEs, Cesar GiEvaWWi', 'Position': 'WFS000587'}
+    {'Name': 'AGeX, WaMhaW REGerM PeWa', 'Position': 'WFS000588'}
+    {'Name': 'WgAyeW, RayCEWd', 'Position': 'WFS000589'}
+]
+
+Answer to question 3 
+[
+    {'Name': 'DeXgadiXXE REdarMe, ChrisMiaW S', 'Position': 'WFS000523'}
+]
